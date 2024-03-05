@@ -3,8 +3,8 @@
 ## How to collaborate:  
 
 ```
-git clone git@github.com:MinesJA/github_guide.git
+git clone git@github.com:jiakai2002/cs105-project.git
 ```
 ```
-cd github_guide/
+cd cs105-project/
 ```
