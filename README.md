@@ -1,7 +1,5 @@
 # CS105 Project
 
-## How to collaborate:  
-
 1) cd to where you want to keep the project folder
 2)  
 ```
