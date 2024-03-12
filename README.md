@@ -11,10 +11,7 @@ open jupyter notebook and make changes to the file
 git branch branch_name
 ```
 ```branch_name``` should describe the changes made.
-For example:
-```
-git branch UpdatedQ2a
-```
+For example: git branch UpdatedQ2a
 ```
 git add .
 ```
