@@ -1,5 +1,5 @@
 # CS105 Project
-How to contribute:
+## How to contribute:
 
 fork the repo
 cd to where you want to keep the project folder
