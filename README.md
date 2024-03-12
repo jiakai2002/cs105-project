@@ -45,3 +45,6 @@ b) not done
 c) not done  
 - description of bivariate relations
 - maybe add more relations?
+
+Link to docs:
+https://docs.google.com/document/d/13OrWMxT_qNx3veDbxrLW-OaWEfhF1AmjLt_VCbIqr_s/edit#heading=h.nbhi2tuw42po
