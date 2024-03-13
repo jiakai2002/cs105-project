@@ -2,7 +2,6 @@
 ## How to contribute:
 
 fork the repo
-cd to where you want to keep the project folder
 ```
 git clone git@github.com:jiakai2002/cs105-project.git
 ```
