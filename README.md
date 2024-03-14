@@ -3,7 +3,7 @@
 
 fork the repo
 ```
-git clone git@github.com:jiakai2002/cs105-project.git
+git clone HTTPS
 ```
 open jupyter notebook and make changes to the file 
 ```
