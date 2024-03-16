@@ -20,6 +20,7 @@ git commit -m 'CommitMessage'
 ```
 git push
 ```   
+sync fork if required
 go to your fork of the repo and make a pull request
 
 
